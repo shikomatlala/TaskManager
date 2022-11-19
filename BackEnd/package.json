@@ -1,0 +1,15 @@
+{
+  "name": "taskmanager",
+  "version": "1.0.0",
+  "description": "Using this system a user can register to the system, login, create, read, update and delete a task",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shikomatlala",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
